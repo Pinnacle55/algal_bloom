@@ -1,0 +1,9 @@
+# ignore folders
+.ipynb_checkpoints/*
+Sentinel2/*
+S2A*
+
+*.vrt
+*.tif
+*.geojson
+*.netrc
