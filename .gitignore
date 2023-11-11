@@ -2,8 +2,11 @@
 .ipynb_checkpoints/*
 Sentinel2/*
 S2A*
+output/*
+papers/*
 
 *.vrt
 *.tif
 *.geojson
 *.netrc
+*.aux.xml

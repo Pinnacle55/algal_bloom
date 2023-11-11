@@ -1,0 +1,11 @@
+## ACOLITE settings
+## Written at 2023-11-11 09:24:34
+inputfile=C:/Users/tranq/Documents/Jupyter Root Folder/Algal Bloom/Sentinel2/S2A_MSIL1C_20170222T142031_N0204_R010_T20JLL_20170222T142357.SAFE/GRANULE/L1C_T20JLL_A008730_20170222T142357/IMG_DATA
+output=C:/Users/tranq/Documents/Jupyter Root Folder/Algal Bloom
+polygon=C:/Users/tranq/Documents/Jupyter Root Folder/Algal Bloom/study_area_reproj.geojson
+l2w_parameters=None
+rgb_rhot=True
+rgb_rhos=True
+map_l2w=True
+runid=20231111_092434
+new_path=None
